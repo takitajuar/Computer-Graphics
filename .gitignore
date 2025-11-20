@@ -1,0 +1,12 @@
+*.exe
+*.obj
+*.o
+*.dll
+*.ilk
+*.pdb
+*.aps
+*.sln
+*.vcxproj.user
+Debug/
+Release/
+ipch/
